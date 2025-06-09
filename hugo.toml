@@ -32,3 +32,6 @@ copyright = "2025 Garrett Byrd"
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
     unsafe = true
+
+[taxonomies]
+  tag = "tags"
