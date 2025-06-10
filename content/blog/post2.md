@@ -2,9 +2,9 @@
 title: "I Bought a $500 Donkey Kong Machine"
 date: 2025-06-09
 wordcount: true
+featured_image: "/thumbnails/dk-switch-2.jpg"
+images: ["/thumbnails/dk-switch-2.jpg"]
 ---
-
-![""](/static/thumbnails/dk-switch-2.jpg)
 
 Yes, I bought a Switch 2. I paid $534.99 including tax at my local Target. I got the last one, so sorry to all the kids who got there after about 5:15pm today.
 
