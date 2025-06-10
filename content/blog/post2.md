@@ -4,6 +4,8 @@ date: 2025-06-09
 wordcount: true
 ---
 
+![""](/static/thumbnails/dk-switch-2.jpg)
+
 Yes, I bought a Switch 2. I paid $534.99 including tax at my local Target. I got the last one, so sorry to all the kids who got there after about 5:15pm today.
 
 I really don't play the original Switch much at all. That machine stays at my parents' house and we ocassionally use it to play _Mario Kart 8_ when I visit family (and truth be told on this, I'm really more of a _Mario Party_ guy).
@@ -30,7 +32,9 @@ I could ramble for too long about the... _difficulties_... of DK64. I recommend 
 
 Is Nintendo a huge, money-hungry company? Oh yeah. But do their games still have soul? For me, yes. They're pretty regularly trying new things, _occasionally_ showing love to older gems, such as the _Paper Mario: The Thousand Year Door_ remake (that remake had so much love and respect poured into it), and demonstrate some level of quality and charm in their works. Their shit usually _runs_ at launch, which is a depressingly low bar to set. At least, this is compared to the likes of Microsoft, Sony, Epic, Riot, and others who produce the video game equivalents of Chicken McNuggets. (More precisely, Chicken McNuggets that are sold through a subscription service... with the option to pay extra for blinking lights on the cardboard box.)
 
-Anyway, I'm gonna go play more _Donkey Kong Country_ on my $500 lobotomized SNES.
+Anyway, I'm gonna go play more _Donkey Kong Country_ on my $500 (lobotomized?) (pimped out?) SNES.
+
+Also, it's worth mentioning that this was acquiring to play games with my family. It's not just a device that will sit in my apartment as a decoration, it will see usage through the few of us playing what I expect to be many wonderful titles. Especiallly Donkey Kong.
 
 Primate games are fun. Thanks for reading.
 
